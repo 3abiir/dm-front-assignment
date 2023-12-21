@@ -1,0 +1,35 @@
+.custom-div {
+  display: flex;
+  justify-content: center;
+  font-size:16px;
+}
+
+.custom-div-style,
+.custom-button {
+  border-radius: 4px;
+  padding: 0px 20px;
+  background: #3563E9;
+  color:#FFFF;
+}
+
+.price-info {
+  padding-top:34px
+}
+
+.product-price {
+  display: inline-block;
+}
+
+.product-price-p {
+  display: inline-block;
+  margin-left: 4px; 
+  color: #90A3BF;
+  font-weight: 700;
+}
+
+.custom-span {
+  color: var(--Secondary-500, #1A202C);
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  line-height: normal;
+}
